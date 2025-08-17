@@ -1,6 +1,7 @@
 streamlit
-tensorflow
-keras
+tensorflow==2.12.0
+keras==2.12.0
 numpy
 pandas
 opencv-python
+pythonVersion = "3.11"
